@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/loot-table/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/loot-table/actions)
+[![License](https://img.shields.io/github/license/Tox1469/loot-table?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/loot-table?style=flat-square)](https://github.com/Tox1469/loot-table/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/loot-table?style=flat-square)](https://github.com/Tox1469/loot-table/stargazers)
+
+---
+
 # loot-table
 
 Tabela de loot com peso (weighted random) para drops de inimigos, bau e recompensas.
