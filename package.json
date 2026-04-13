@@ -1,0 +1,19 @@
+{
+  "name": "loot-table",
+  "version": "1.0.0",
+  "description": "Weighted random loot table for games",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["loot", "weighted", "random", "drop", "gamedev"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
